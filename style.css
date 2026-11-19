@@ -1,0 +1,10 @@
+:root { color-scheme: light; font-family: system-ui, sans-serif; color: #20231f; background: #f6f7f2; }
+* { box-sizing: border-box; }
+body { margin: 0; padding: 2rem 1rem; }
+main { max-width: 760px; margin: 0 auto; padding: clamp(1.25rem, 4vw, 3rem); background: white; border-radius: 1rem; box-shadow: 0 8px 32px #16220c12; }
+h1 { line-height: 1.2; }
+h2 { margin-top: 2rem; font-size: 1.15rem; }
+p { line-height: 1.7; }
+nav { display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 2rem; }
+a { color: #27684a; }
+
